@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "NirvanaHQ Task+",
+    "description": "Add tasks to NirvanaHQ from Chrome"
+  },
+  "appDescription": {
+    "message": "Add tasks to NirvanaHQ from Chrome",
+    "description": "Create task from current mail in Nirvana inbox"
+  }
+}

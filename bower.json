@@ -1,0 +1,27 @@
+{
+  "name": "nirvanahq-chrome",
+  "version": "0.0.1",
+  "dependencies": {
+    "js-md5": "~1.1.0"
+  },
+  "authors": [
+    "Vojtech Kusy <wojtha@gmail.com>"
+  ],
+  "description": "NirvanaHQ Chrome Extension (Unofficial)",
+  "keywords": [
+    "chrome",
+    "extension",
+    "todo"
+  ],
+  "license": "MIT",
+  "homepage": "http://vojtechkusy.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}

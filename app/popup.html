@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link href="styles/main.css" rel="stylesheet">
+</head>
+<body>
+  <form id="add-task">
+    <p>
+      <label for="title">Title</label><br />
+      <input type="text" id="title" name="title" size="50" value="" />
+    </p>
+    <p>
+      <label for="note">Note</label><br />
+      <textarea id="note" name="note" rows="6" cols="35"></textarea>
+    </p>
+    <!-- <p>
+      <label for="tags">Tags</label><br />
+      <input type="text" id="tags" name="tags" size="50" value="" />
+    </p> -->
+    <p>
+      <input id="save" type="submit" value="Create task" />
+    </p>
+    <p>
+      <span id="status-display"></span>
+    </p>
+  </form>
+  <script src="scripts/popup.js"></script>
+</body>
+</html>
