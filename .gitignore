@@ -4,6 +4,7 @@ temp
 .grunt
 dist
 .sass-cache
+app/scripts/*.js
 app/bower_components
 test/bower_components
 package
